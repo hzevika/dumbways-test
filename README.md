@@ -1,2 +1,2 @@
 # dumbways-test
-Nama : Havis Zevika
+Havis Zevika
